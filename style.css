@@ -38,12 +38,12 @@ ul {
 }
 
 .imagembeneficios {
-     wid: 50%;
+     width: 50%;
      float: right;
 }
 
 header {
-    background: #BBBBBB
+    background: #BBBBBB;
     display: flex;
     flex-direction: row;
 }
@@ -53,7 +53,7 @@ header {
 }
 
 nav {
-    width: 100%
+    width: 100%;
     display: flex;
     align-items: center;
 }
@@ -68,4 +68,5 @@ nav a {
   color:  #000000;
   font-weight: bold;
   font-size: 22px;
-  text-decoration: nome;
+  text-decoration: none;
+}
