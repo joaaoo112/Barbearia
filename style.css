@@ -31,12 +31,6 @@ em strong {
     font-size: 20px;
 }
 
-ul {
-    display: inline-block;
-    vertical-align: top;
-    margin-right: 15%;
-}
-
 .imagembeneficios {
     width: 50%;
     float: right;
