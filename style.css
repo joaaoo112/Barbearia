@@ -109,4 +109,16 @@ header div.container {
 header ul li a:hover {
     color: gold
 }
+footer {
+    text-aligh: center;
+    padding: 40px 0;
+    background: grey;
+    margin-top: 50px;
+}
+
+.copyright {
+    color: white;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
 
